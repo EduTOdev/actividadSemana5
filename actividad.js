@@ -27,3 +27,5 @@ const datosPC = {
 }
 
 console.table(datosPC);
+
+//Me acabo de dar cuenta que no le agregue que hiciera el json pero ahorita lo agrego voy a ir a cenar
